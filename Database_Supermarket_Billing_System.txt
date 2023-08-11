@@ -1,0 +1,5 @@
+ 1 apple 200 10
+ 2 banana 100 40
+ 3 orange 100 10
+ 4 mango 80 25
+ 5 juice 300 80
